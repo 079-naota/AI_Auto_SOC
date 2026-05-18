@@ -1,0 +1,7 @@
+.env
+soc-enc/
+
+__pycache__/
+*.pyc
+
+*.log
